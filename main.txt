@@ -6,3 +6,8 @@
 
 
              merging starts here
+
+
+
+text adding from branch 1
+ending of branch 1
